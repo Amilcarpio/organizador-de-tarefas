@@ -1,0 +1,22 @@
+{
+    "tasks": [
+      {
+        "id": "1",
+        "text": "Consulta com o Médico",
+        "day": "5 de Março as 14:00",
+        "reminder": true
+      },
+      {
+        "id": "2",
+        "text": "Almoço com o chefe",
+        "day": "6 de Março as 12:00",
+        "reminder": true
+      },
+      {
+        "id": "3",
+        "text": "Dentista",
+        "day": "7 de Março as 15:00",
+        "reminder": false
+      }
+    ]
+  }
